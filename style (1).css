@@ -1,0 +1,43 @@
+.{
+  margin:0;
+  padding: 0;
+}
+header{
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+}
+nau ul{
+  list-style: none;
+}
+nau ul li{
+  display: inline;
+  margin-right: 10px;
+}
+nau ul li a{
+  color:#fff;
+  text-decoration: none;
+}
+.hero{
+  text-align: center;
+  padding: 50px 10px;
+  background-color: #edcc6f;
+}
+.hero h1{
+  font-size: 2cm;
+  margin-bottom: 20px;
+}
+.hero p{
+  font-size: 1.0cm;
+  margin-bottom: 20px
+}
+.btn{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+
